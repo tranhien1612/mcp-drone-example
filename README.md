@@ -1,4 +1,10 @@
 # mcp-drone-example
+## Install lib
+```
+python>=3.10
+uv
+mcp
+```
 
 ## Create project and install lib
 ### Client
