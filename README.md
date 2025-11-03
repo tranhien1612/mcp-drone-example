@@ -6,6 +6,9 @@ uv
 mcp
 ```
 
+## Create Gemini API Key
+Go to `https://aistudio.google.com/` -> Get API Key -> Create an API Key
+
 ## Create project and install lib
 ### Client
 ```
